@@ -1,1 +1,1 @@
-# Adhub
+# digital-signage-frontend
